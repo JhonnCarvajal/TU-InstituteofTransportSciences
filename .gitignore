@@ -5,8 +5,9 @@ data
 resultados
 results
 SingleTilesSHP
-tiles2
-tiles
+
+tiles*
+
 
 #Grid files created for the clipper
 grids
