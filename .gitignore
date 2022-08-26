@@ -4,7 +4,9 @@ data
 #Result of the clippers
 resultados
 results
-
+SingleTilesSHP
+tiles2
 tiles
+
 #Grid files created for the clipper
 grids
