@@ -11,3 +11,11 @@ tiles*
 
 #Grid files created for the clipper
 grids
+grid.*
+
+
+#Iamges created for filter processing
+imageFiltered*.*
+
+#No data file
+Thumbs.db
