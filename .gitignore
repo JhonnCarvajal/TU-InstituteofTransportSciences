@@ -1,18 +1,5 @@
-#Input images and data
-data
-
-#Result of the clippers
-resultados
-results
-SingleTilesSHP
-
-tiles*
-
-
-#Grid files created for the clipper
-grids
-grid.*
-
-
-#Iamges created for filter processing
-imagesProcessedByFilters
+#Folder with input or output data
+dataForTesting
+Tiles
+Grids
+images
